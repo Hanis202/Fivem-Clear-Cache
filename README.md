@@ -9,3 +9,4 @@ Instruction:
 2. When the message "Cache Clearing Completed" appears, you can close cmd.
 
 All my social links: https://linktr.ee/hanis202
+Support on my discord.
